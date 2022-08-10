@@ -1,0 +1,26 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.currencyLogo {
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+.name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 10px;
+}
+.logo-name {
+  display: flex;
+  align-items: center;
+}
+.values {
+  display: flex;
+  align-items: center;
+  margin-right: 40px;
+}
